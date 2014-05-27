@@ -1,0 +1,26 @@
+{
+  "name": "partidos",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "partidos",
+      "path": "data/partidos.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 39362,
+      "schema": {
+        "fields": [
+          {
+            "name": "Sigla\"|\"Denominação\"|\"Orientação Política\"|\"Observações\"|\"Inscrição\"|\"Dissolução-Alteração\"|\"Morada\"|\"Localidade\"|\"Telefone\"|\"Fax\"|\"Website\"|\"Correio electrónico",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
