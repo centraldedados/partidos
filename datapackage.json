@@ -1,9 +1,9 @@
 {
   "name": "partidos",
-  "title": "",
+  "title": "Partidos políticos",
   "homepage": "",
   "version": "0.1.0",
-  "license": "PDDL-1.0",
+  "license": "ODbL-1.0",
   "resources": [
     {
       "name": "partidos",
@@ -22,5 +22,5 @@
       }
     }
   ],
-  "description": ""
+  "description": "Informação sobre os partidos políticos desde 1974"
 }
